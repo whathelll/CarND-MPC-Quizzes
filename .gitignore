@@ -3,3 +3,7 @@
 tags
 .editorconfig
 .DS_Store
+Ipopt-3.12.7/
+mpc_to_line/.cproject
+mpc_to_line/.project
+mpc_to_line/.settings/
